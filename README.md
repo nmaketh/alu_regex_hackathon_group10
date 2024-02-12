@@ -1,1 +1,1 @@
-regex hakathon
+regex hakathon g-10
